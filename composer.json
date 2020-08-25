@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpseclib/phpseclib": "~1.0",
+        "phpzip/phpzip": "^2.0",
+        "maennchen/zipstream-php": "^2.1"
+    }
+}
