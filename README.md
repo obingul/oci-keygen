@@ -1,5 +1,5 @@
 # oci-keygen
- Creates Private and Public 256-bit SSL key in SSH/Putty and PEM format
+Creates docker image which creates Private and Public 256-bit SSL key in SSH/Putty and PEM format
  Run container as follows
 $ docker run -d -p 8080:80 obingul/oci-keygen:1.0
 then open web browser and navigate
